@@ -9,7 +9,7 @@ curl http://192.168.1.1/cgi-bin/makeRequest.cgi -X POST --data "Reboot"
 ##من این درخواست رو با فلاتر می‌فرستم
 
 
-![TD i 40 Modem](https://axbabak.ir/uploads/6035123.jpg)
+![TD i 40 Modem](https://axbabak.ir/uploads/c90732424234234.jpg)
 
 
 
