@@ -70,8 +70,10 @@ class _MyHomePageState extends State<MyHomePage> {
         });
       });
     } catch (e) {
+      print("Irancell reboot Error");
+      print(e);
       setState(() {
-        _text = "ERROR!";
+        _text = e.toString();
         _onLongPress = _reboot;
         _onPressed = __onPressed;
       });
