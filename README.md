@@ -1,0 +1,30 @@
+# tdi40reboot
+## این مودم برای ری‌استارت نیازی به یوزر پسورد نداره فقط باید یه درخواست بفرستید بهش
+
+
+```
+curl http://192.168.1.1/cgi-bin/makeRequest.cgi -X POST --data "Reboot" 
+```
+
+##من این درخواست رو با فلاتر می‌فرستم
+
+
+![TD i 40 Modem](https://axbabak.ir/uploads/d416photo-2021-07-01-17-34-14.jpg)
+
+
+
+
+اگه خودتون یه پروژه فلاتری ساختید فقط فایل
+
+`main.dart`
+
+رو ویرایش کردم.
+
+
+
+reboot Irancell TD i 40 modem
+
+
+![TD i 40 Modem](https://axbabak.ir/uploads/a403TD-i40.jpg)
+
+
