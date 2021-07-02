@@ -16,7 +16,7 @@ curl http://192.168.1.1/cgi-bin/makeRequest.cgi -X POST --data "Reboot"
 
 اگه خودتون یه پروژه فلاتری ساختید فقط فایل
 
-`main.dart`
+`main.dart` , `AndroidManifest.xml`
 
 رو ویرایش کردم.
 
